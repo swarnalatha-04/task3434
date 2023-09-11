@@ -1,0 +1,47 @@
+body {
+  background-color:rgb(171, 133, 86);
+  color: #312727;
+}
+
+header {
+  background-color:aquamarine;
+  padding: 35px;
+  color: #120e0e;
+}
+
+h1 {
+  font-size: 39px;
+  margin: 0;
+}
+
+p {
+  font-size: 20px;
+  margin: 0;
+}
+
+section {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(111, 67, 67, 0.1);
+}
+
+h2 {
+  font-size: 20px;
+  margin: 0 0 10px;
+  color:white;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+footer {
+  background-color: #141010;
+  padding: 10px;
+  color: aqua;
+}
